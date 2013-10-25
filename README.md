@@ -1,6 +1,6 @@
 # ago-admin-wiki
 
-A collection of code samples, scripts, hacks, tools, and information for ArcGIS Organization administrators.
+A collection of tools, scripts, code samples, hacks, and information for ArcGIS Organization administrators.
 
 ### Everything is in the [wiki](https://github.com/oevans/AGOadmin/wiki)! -->
 
