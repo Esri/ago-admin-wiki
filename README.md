@@ -6,7 +6,7 @@ A collection of tools, scripts, code samples, hacks, and information for ArcGIS 
 
 ## Who this is for?
 
-* Admins of **ArcGIS Online subscriptions**
+* Admins of **ArcGIS Online** subscriptions
 * Admins of **Portal for ArcGIS** instances
 
 _Some tools and best practices may also work with/apply to **ArcGIS Online Public Accounts**_.
