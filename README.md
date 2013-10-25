@@ -2,7 +2,9 @@
 
 A collection of tools, scripts, code samples, hacks, and information for ArcGIS Organization administrators.
 
-### Everything is in the [wiki](https://github.com/oevans/AGOadmin/wiki)! -->
+This site is maintained by Esri solution engineers and the Esri community as a place where anyone can find and share tools, experience, and knowledge.
+
+### All the good stuff is in the [wiki](https://github.com/oevans/AGOadmin/wiki)! -->
 
 ## Who this is for?
 
