@@ -2,30 +2,36 @@
 
 This is a collection of code samples, scripts, hacks, tools, and information for ArcGIS Organization administrators.
 
-**Everything you are looking for is in the wiki, so please click the Wiki link (book icon) to the right. --->**
+**NOTE: Everything you are looking for is in the \*\*WIKI\*\*; click the Wiki link (book icon) to the right. --->**
 
 ## Features
-* Administrative tools (web apps, python libraries/scripts, etc.)
-* Best practices for working with and managing users, items, and groups
-* Links to blog posts, training seminars, videos, and other resources for administrators
+* Administrative **tools** (web apps, python libraries/scripts, etc.)
+* **Best practices** for working with and managing users, items, and groups
+* Links to **resources** specifically for administrators like blog posts, training seminars, videos, etc.
 
 ## Instructions
 
-* Click the Wiki link (book icon) to the right.
+* Click the **Wiki** link (book icon) to the right.
+ * _This repository does **not** have any code, just a wiki._
 
 ## Requirements
 
-* ArcGIS Online Subscription or Portal for ArcGIS instance (some tools may work with ArcGIS Online Public Accounts)
+* **ArcGIS Online Subscription** or **Portal for ArcGIS instance**
+ * Some tools and best practices may also work with/apply to ArcGIS Online Public Accounts
 
 ## Resources
 
-* [ArcGIS REST API](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000054000000)
+* [ArcGIS REST API](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000054000000):
+ * [Managing your Organization](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Working_with_users_groups_and_items/02r3000000mt000000/)
+ * [Administering your Portal](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Overview_of_portal_administration_in_the_ArcGIS_REST_API/02r300000246000000/)
 * [ArcGIS Online Blog](http://blogs.esri.com/esri/arcgis/category/arcgis-online/)
 * [twitter@esri](http://twitter.com/esri)
 
 ## Issues
 
-Find a bug or want to request a new feature?  Please let us know by submitting an issue.
+Have a question?  Please let us know by submitting an issue.
+
+If you have a question, issue, or bug for a tool referred to in this wiki, please submit an issue on that tool's GitHub repo.
 
 ## Contributing
 
