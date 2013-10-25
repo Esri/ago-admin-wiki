@@ -2,17 +2,17 @@
 
 This is a collection of code samples, scripts, hacks, tools, and information for ArcGIS Organization administrators.
 
-**NOTE: Everything you are looking for is in the \*\*WIKI\*\*; click the Wiki link (book icon) to the right. --->**
+### Go to the [wiki](https://github.com/oevans/AGOadmin/wiki) (that's where all the good stuff is).
+
+## Who this is for?
+
+* Admins of **ArcGIS Online** subscriptions
+* Admins of **Portal for ArcGIS** instances
 
 ## Features
 * Administrative **tools** (web apps, python libraries/scripts, etc.)
 * **Best practices** for working with and managing users, items, and groups
 * Links to **resources** specifically for administrators like blog posts, training seminars, videos, etc.
-
-## Instructions
-
-* Click the **Wiki** link (book icon) to the right.
- * _This repository does **not** have any code, just a wiki._
 
 ## Requirements
 
