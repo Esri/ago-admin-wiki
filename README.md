@@ -45,5 +45,5 @@ limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://github.com/Esri/ago-admin-wiki/blob/master/license.txt) file.
 
-[](Esri Tags: administration, admin, tools, ArcGIS-Online, AGO, AGOL, Portal-for-ArcGIS, Portal, python, JavaScript)
-[](Esri Language: python)
+[](Esri Tags: administration, admin, tools, ArcGIS-Online, AGO, AGOL, Portal-for-ArcGIS, Portal, Python, JavaScript)
+[](Esri Language: Python)
