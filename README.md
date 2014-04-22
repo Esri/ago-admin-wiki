@@ -14,7 +14,7 @@ This site is maintained by Esri solution engineers and the Esri community as a p
 _Some tools and best practices may also work with/apply to **ArcGIS Online Public Accounts**_.
 
 ## Features
-* Administrative [**tools**](https://github.com/oevans/ago-admin-wiki/wiki/Tools) (web apps, python libraries/scripts, etc.)
+* Administrative [**tools**](https://github.com/oevans/ago-admin-wiki/wiki/Tools) (web apps, Python libraries/scripts, etc.)
 * [**Best practices**](https://github.com/oevans/ago-admin-wiki/wiki/Best-practices) for working with and managing users, items, and groups
 * Links to [**resources**](https://github.com/oevans/AGOadmin/wiki/Resources) specifically for administrators like blog posts, training seminars, videos, etc.
 
