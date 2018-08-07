@@ -1,3 +1,11 @@
+# This repository and wiki are no longer being maintained. Please refer to the following resources.
+
+- For code samples and scripts, use [ArcGIS API for Python](https://developers.arcgis.com/python/).
+
+- To find tips, ideas, and best practices for ArcGIS Online administrators, see [Be a Great Administrator](https://community.esri.com/community/gis/web-gis/arcgisonline/blog/2017/08/06/administer-your-arcgis-online-organization). 
+
+- Get the latest recommended strategies by browsing the [ArcGIS Blog](https://www.esri.com/arcgis-blog/?s=#&categories=administration&products=arcgis-online) for articles applicable to administering your ArcGIS Online organization.
+
 # ago-admin-wiki
 
 A collection of tools, scripts, code samples, hacks, and information for ArcGIS Organization administrators.
