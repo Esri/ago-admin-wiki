@@ -1,4 +1,5 @@
-# _This repository and wiki are no longer being maintained. Please refer to the following resources._
+# _This repository and wiki are no longer being maintained._
+## _Please refer to the following resources._
 
 - **For code samples and scripts, use [ArcGIS API for Python](https://developers.arcgis.com/python/).**
 
