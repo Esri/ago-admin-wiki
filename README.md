@@ -6,6 +6,8 @@
 
 - **Get the latest recommended strategies by browsing the [ArcGIS Blog](https://www.esri.com/arcgis-blog/?s=#&categories=administration&products=arcgis-online) for articles applicable to administering your ArcGIS Online organization.**
 
+---
+
 # ago-admin-wiki
 
 A collection of tools, scripts, code samples, hacks, and information for ArcGIS Organization administrators.
