@@ -1,6 +1,6 @@
 # _This repository and wiki are no longer being maintained. Please refer to the following resources._
 
-- **_For guidance setting up a new ArcGIS organization, see the resources in the [Learn ArcGIS Administration path](https://learn.arcgis.com/en/paths/administration/)._**
+- **For guidance setting up a new ArcGIS organization, see the resources in the [Learn ArcGIS Administration path](https://learn.arcgis.com/en/paths/administration/).**
 
 - **To find tips, ideas, and best practices for ArcGIS Online administrators, see [Be a Great Administrator](https://community.esri.com/community/gis/web-gis/arcgisonline/blog/2017/08/06/administer-your-arcgis-online-organization).**
 
